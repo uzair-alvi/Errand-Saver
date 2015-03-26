@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  contact_number: 1
+  address: MyString
+  latitude: 1.5
+  longitude: 1.5
+  price: 9.99
+  due_by_date: 2015-03-26
+  due_by_time: 2015-03-26 07:15:05
+
+two:
+  title: MyString
+  description: MyText
+  contact_number: 1
+  address: MyString
+  latitude: 1.5
+  longitude: 1.5
+  price: 9.99
+  due_by_date: 2015-03-26
+  due_by_time: 2015-03-26 07:15:05
